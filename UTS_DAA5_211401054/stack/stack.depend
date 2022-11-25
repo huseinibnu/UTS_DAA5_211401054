@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669175558 source:d:\semester 3\lab 5 daa bang tamir rusydi\uts\stack\stack\main.cpp
+	<iostream>
+	<stack>
+	<string>
+

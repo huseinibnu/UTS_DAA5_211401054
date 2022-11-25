@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669043830 source:d:\program c++\uts\main.cpp
+	<iostream>
+	<queue>
+
